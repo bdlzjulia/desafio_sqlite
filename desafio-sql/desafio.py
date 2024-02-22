@@ -13,7 +13,7 @@ cursor = conexao.cursor()
 
 # 2 - Insira pelo menos 5 registros de alunos na tabela que você criou no exercício anterior.
 
-# cursor.execute('INSERT INTO alunos(id,nome,idade,curso) VALUES(1, "João", 25, "Engenharia Civil"), (2, "Maria", 22, "Medicina"), (3, "Pedro", 20, "Economia"), (4, "Ana", 24, "Direito"), (5, "Lucas", 21, "Administração"), (6, "Carolina", 18, "Psicologia"), (7, "André", 19, "Engenharia da computação"), (8, "Felipe", 18, "Arquitetura"), (9, "Mariana", 24, "Biologia"), (10, "Camila", 20, "Jornalismo")')
+# cursor.execute('INSERT INTO alunos(id,nome,idade,curso) VALUES(1, "João", 25, "Engenharia"), (2, "Maria", 22, "Medicina"), (3, "Pedro", 20, "Economia"), (4, "Ana", 24, "Direito"), (5, "Lucas", 21, "Administração"), (6, "Carolina", 18, "Psicologia"), (7, "André", 19, "Engenharia"), (8, "Felipe", 18, "Arquitetura"), (9, "Mariana", 24, "Biologia"), (10, "Camila", 20, "Jornalismo")')
 
 
 # 3. Consultas Básicas
