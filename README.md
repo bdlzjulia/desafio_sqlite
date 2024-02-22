@@ -7,6 +7,10 @@ Neste exercício, trabalhei com a criação de tabelas, inserção de dados, con
 - A. Crie uma tabela chamada "alunos" com os seguintes campos: id (inteiro), nome (texto), idade (inteiro) e curso (texto).
      
 - B. Insira pelo menos 5 registros de alunos na tabela que você criou no exercício anterior.
+
+<h1 align="center">
+  <img src="./assets_sql/exercicio_1_2.png" height="55" width="55"/>
+</h1>
      
 - C. Consultas Básicas
   - Escreva consultas SQL para realizar as seguintes tarefas:
