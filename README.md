@@ -7,15 +7,15 @@ Neste exercício, trabalhei com a criação de tabelas, inserção de dados, con
 - B. Insira pelo menos 5 registros de alunos na tabela que você criou no exercício anterior.
      
 - C. Consultas Básicas
-     Escreva consultas SQL para realizar as seguintes tarefas:
-     - 1) Selecionar todos os registros da tabela "alunos".
-     - 2) Selecionar o nome e a idade dos alunos com mais de 20 anos.
-     - 3) Selecionar os alunos do curso de "Engenharia" em ordem alfabética.
-     - 4) Contar o número total de alunos na tabela
+  - Escreva consultas SQL para realizar as seguintes tarefas:
+     - Selecionar todos os registros da tabela "alunos".
+     - Selecionar o nome e a idade dos alunos com mais de 20 anos.
+     - Selecionar os alunos do curso de "Engenharia" em ordem alfabética.
+     - Contar o número total de alunos na tabela
        
 - D. Atualização e Remoção
-  - 1) Atualize a idade de um aluno específico na tabela.
-  - 2) Remova um aluno pelo seu ID.
+  - Atualize a idade de um aluno específico na tabela.
+  - Remova um aluno pelo seu ID.
     
 - E. Criar uma Tabela e Inserir Dados
   - Crie uma tabela chamada "clientes" com os campos: id (chave primária), nome (texto), idade (inteiro) e saldo (float).
@@ -23,14 +23,14 @@ Neste exercício, trabalhei com a criação de tabelas, inserção de dados, con
     
 - F. Consultas e Funções Agregadas
      Escreva consultas SQL para realizar as seguintes tarefas:
-     - 1) Selecione o nome e a idade dos clientes com idade superior a 30 anos.
-     - 2) Calcule o saldo médio dos clientes.
-     - 3) Encontre o cliente com o saldo máximo.
-     - 4) Conte quantos clientes têm saldo acima de 1000.
+     - Selecione o nome e a idade dos clientes com idade superior a 30 anos.
+     - Calcule o saldo médio dos clientes.
+     - Encontre o cliente com o saldo máximo.
+     - Conte quantos clientes têm saldo acima de 1000.
        
 - G. Atualização e Remoção com Condições
-  - 1) Atualize o saldo de um cliente específico.
-  - 2) Remova um cliente pelo seu ID.
+  - Atualize o saldo de um cliente específico.
+  - Remova um cliente pelo seu ID.
     
 - H. Junção de Tabelas
   - Crie uma segunda tabela chamada "compras" com os campos: id (chave primária), cliente_id (chave estrangeira referenciando o id da tabela "clientes"), produto (texto) e valor (real).
