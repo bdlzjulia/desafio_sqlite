@@ -16,8 +16,11 @@ Neste exercício, trabalhei com a criação de tabelas, inserção de dados, con
      - Selecionar todos os registros da tabela "alunos".
 <img src="./assets_sql/exercicio_3A.png" />
      - Selecionar o nome e a idade dos alunos com mais de 20 anos.
+<img src="./assets_sql/exercicio_3B.png" />
      - Selecionar os alunos do curso de "Engenharia" em ordem alfabética.
+<img src="./assets_sql/exercicio_3C.png" />
      - Contar o número total de alunos na tabela
+<img src="./assets_sql/exercicio_3D.png" />
        
 - D. Atualização e Remoção
   - Atualize a idade de um aluno específico na tabela.
