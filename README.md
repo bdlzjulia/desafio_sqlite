@@ -2,6 +2,8 @@
 
 Neste exercício, trabalhei com a criação de tabelas, inserção de dados, consultas básicas, atualização, remoção, uso de funções agregadas e junção de tabelas em um banco de dados relacional. 
 
+## Passo a passo do exercício:
+
 - A. Crie uma tabela chamada "alunos" com os seguintes campos: id (inteiro), nome (texto), idade (inteiro) e curso (texto).
      
 - B. Insira pelo menos 5 registros de alunos na tabela que você criou no exercício anterior.
