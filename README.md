@@ -8,7 +8,7 @@ Neste exercício, trabalhei com a criação de tabelas, inserção de dados, con
      
 - B. Insira pelo menos 5 registros de alunos na tabela que você criou no exercício anterior.
 
-<img src="./assets_sql/exercicio_1_2.png" height="215" width="295"/>
+<img src="./assets_sql/exercicio_1_2.png" height="215" width="310"/>
 
      
 - C. Consultas Básicas
