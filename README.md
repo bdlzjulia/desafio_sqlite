@@ -14,6 +14,7 @@ Neste exercício, trabalhei com a criação de tabelas, inserção de dados, con
 - C. Consultas Básicas
   - Escreva consultas SQL para realizar as seguintes tarefas:
      - Selecionar todos os registros da tabela "alunos".
+<img src="./assets_sql/exercicio_3A.png" height="215" width="310"/>
      - Selecionar o nome e a idade dos alunos com mais de 20 anos.
      - Selecionar os alunos do curso de "Engenharia" em ordem alfabética.
      - Contar o número total de alunos na tabela
